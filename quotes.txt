@@ -2,6 +2,7 @@ Responsive is better than fast
 It’s not fully shipped until it’s fast
 Anything added dilutes everything else
 Practicality beats purity
+There is only one competitor of your which is your reflection in mirror
 Approachable is better than simple
 Mind your words, they are important
 Speak like a human
@@ -12,3 +13,4 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+You are awesome
